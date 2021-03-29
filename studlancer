@@ -1,0 +1,17 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    titleREDIRECT Titletitle
+
+head
+body
+divspanRedirecting...spandiv
+
+script
+    setTimeout(function () {
+        document.location.href = studlancer.ru
+    }, 3)
+script
+body
+html
